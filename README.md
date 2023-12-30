@@ -7,7 +7,9 @@
 <p align="center">
 <details>
  <summary>Code</summary>
-
+<details>
+ <summary>Vars</summary>
+ 
 ```py
 name = "Johan Alejandro Ontiveros Alfaro"
 age = 22
@@ -17,7 +19,13 @@ languages = ["Spanish: native", "English: B1"]
 occupation = "Student"
 institution = "TecNM Campus Ciudad Hidalgo"
 hobbies = ["Basketball", "Learn to dance", "Spend time with family and friends", "Learn to programming"]
+```
+</details>
 
+<details>
+ <summary>Class Developer</summary>
+ 
+ ```py
 class Developer:
     def __init__(self, name, age, nationality, developer_profile, languages, occupation, institution, hobbies):
         self.name = name
@@ -76,9 +84,10 @@ futureDeveloper.Programming(
 
 ![pinguinito2](https://github.com/ChemsJam/ChemsJam/assets/111895521/2232dd81-82ca-4c12-a0dc-f97781810506)
 </details>
+</details>
+
 <details>
 <summary>Result</summary>
-
  
 ```py
 #Resultado
@@ -93,14 +102,10 @@ Runtimes: ['Node']
 Databases: ['MySQL', 'Firestore', 'MariaDB']
 Learning: ['Django', 'React', 'Astro']
 Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
-
 ```
-
 
  ![pollito](https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd)
 </details>
-</p>
-
 <details>
  <summary>My Stats</summary>
  <p align="center">
@@ -111,12 +116,5 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=html,scss,prolog" />
 </a>
   </p>
-
-
- 
 </details>
-
-
-
-
-
+</p>
