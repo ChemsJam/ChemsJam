@@ -11,7 +11,9 @@ class Developer:
   def __init__(self, name, age, nationality, dev_profile, languages, occupation, school, freetime)
 
 
-futureDeveloper = Developer("Johan Alejandro Ontiveros alfaro", 22, "Mexican", "BackEnd developer", ["Spanish: native", "English; B1"], "Student", "TecNM Campus Ciudad Hidalgo", ["Basketball","Learn to dance","Spend time with family and friends"])
+futureDeveloper = Developer("Johan Alejandro Ontiveros alfaro", 22, "Mexican", "BackEnd developer",
+                  ["Spanish: native", "English; B1"], "Student", "TecNM Campus Ciudad Hidalgo",
+                  ["Basketball","Learn to dance","Spend time with family and friends"])
 
 ```
 
