@@ -3,18 +3,8 @@
 </h1>
 
 ![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
-![wecan](https://github.com/ChemsJam/ChemsJam/assets/111895521/32751c8e-5b36-4069-82a6-e9ed92ece527)
 
-<details>
- <sumary>My Stats</sumary>
- <p align="center">
-<a href="https://github.com/ChemsJam?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=ChemsJam&show_icons=true&theme=dracula&rank_icon=github" />
-</a>
-<a href="https://github.com/ChemsJam?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=html,scss,prolog" />
-</a>
-</details>
+<p align="center">
 <details>
  <summary>Code</summary>
 
@@ -85,7 +75,7 @@ futureDeveloper.Programming(
 ```
 </details>
 <details>
-<sumary>Result</sumary>
+<summary>Result</summary>
 
  
 ```py
@@ -104,11 +94,22 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 
 ```
 </details>
+</p>
+
+<details>
+ <summary>My Stats</summary>
+ <p align="center">
+<a href="https://github.com/ChemsJam?tab=repositories">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=ChemsJam&show_icons=true&theme=dracula&rank_icon=github" />
+</a>
+<a href="https://github.com/ChemsJam?tab=repositories">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=html,scss,prolog" />
+</a>
+  </p>
+</details>
 
 ![pollito](https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd)
 
-
-
 ![pinguinito2](https://github.com/ChemsJam/ChemsJam/assets/111895521/2232dd81-82ca-4c12-a0dc-f97781810506)
 
-</p>
+
