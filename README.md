@@ -1,6 +1,7 @@
 <h1 align="center">
  &#128075 Hi, there!
 </h1>
+
 ![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
 
 ```ts
