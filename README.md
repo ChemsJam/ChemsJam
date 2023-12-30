@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ChemsJam/ChemsJam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ```ts
+
+name = "Johan Alejandro Ontiveros Alfaro"
+age = 22
+nationality = "Mexican"
+developer_profile = "BackEnd developer"
+languages = ["Spanish: native", "English: B1"]
+occupation = "Student"
+institution = "TecNM Campus Ciudad Hidalgo"
+hobbies = ["Basketball", "Learn to dance", "Spend time with family and friends", "Learn to programing"]
+
 class Developer:
     def __init__(self, name, age, nationality, developer_profile, languages, occupation, institution, hobbies):
         self.name = name
@@ -15,15 +21,28 @@ class Developer:
         self.occupation = occupation
         self.institution = institution
         self.hobbies = hobbies
+    def descripcion(self):
+        return 'Mi nombre es {}, tengo {} años, mi nacionalidad es {} y soy un {}, tengo las habilidades de hablar {}, soy un {} en el instituto {} y mis hobbies son {}.'.format(
+        selft.name,
+        self.age,
+        self.nationality,
+        self.developer_profile,
+        self languages,
+        self.occupation,
+        self.institution,
+        self.hobbies
+        )
 
-name = "Johan Alejandro Ontiveros Alfaro"
-age = 22
-nationality = "Mexican"
-developer_profile = "BackEnd developer"
-languages = ["Spanish: native", "English: B1"]
-occupation = "Student"
-institution = "TecNM Campus Ciudad Hidalgo"
-hobbies = ["Basketball", "Learn to dance", "Spend time with family and friends"]
+    def Programing(self, languages, stylesheets, frameworks, runtimes, databases, learning, projects)
+        print(f"Languages: {languages}")
+        print(f"Stylesheets: {stylesheets}")
+        print(f"Frameworks: {frameworks}")
+        print(f"Runtimes: {runtimes}")
+        print(f"Databases: {databases}")
+        print(f"Learning: {learning}")
+        print(f"Projects: {projects}")
+    
+
 
 futureDeveloper = Developer(
     name,
@@ -36,6 +55,19 @@ futureDeveloper = Developer(
     hobbies
 )
 
+# Impresión de la descripción del desarrollador
+print(futureDeveloper.descripcion())
+
+# Llamada al método Programming con ejemplos de tecnologías
+futureDeveloper.Programming(
+    ["Python", "Java", "PHP", "JavaScript],
+    ["CSS"],
+    ["Angular", "React", "Django],
+    ["Node"],
+    ["MySQL", "Firestore", MariaDB],
+    ["Django", "React", "Astro"],
+    ["webProLog", "ForoAngular", "comandasPlayitaSanMarcos"]
+)
 ```
 
 <p align="center">
