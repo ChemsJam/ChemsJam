@@ -2,11 +2,9 @@
  &#128075 Hi, there!
 </h1>
 
-<p align="center">
-  <img src="![giphy](https://github.com/ChemsJam/ChemsJam/assets/111895521/c449037a-f772-4222-be3f-70d26d98ccb2)" alt="Descripción del GIF">
-</p>
 
-
+![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
+![pinguinito2](https://github.com/ChemsJam/ChemsJam/assets/111895521/2232dd81-82ca-4c12-a0dc-f97781810506)
 
 ```ts
 name = "Johan Alejandro Ontiveros Alfaro"
@@ -87,6 +85,8 @@ Learning: ['Django', 'React', 'Astro']
 Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 
 ```
+
+![pollito](https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd)
 
 <p align="center">
 <a href="https://github.com/ChemsJam?tab=repositories">
