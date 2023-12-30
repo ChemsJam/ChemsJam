@@ -2,7 +2,10 @@
  &#128075 Hi, there!
 </h1>
 
-![giphy](https://github.com/ChemsJam/ChemsJam/assets/111895521/c449037a-f772-4222-be3f-70d26d98ccb2)
+<p align="center">
+  <img src="![giphy](https://github.com/ChemsJam/ChemsJam/assets/111895521/c449037a-f772-4222-be3f-70d26d98ccb2)" alt="Descripción del GIF">
+</p>
+
 
 
 ```ts
