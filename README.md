@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ```ts
-
 name = "Johan Alejandro Ontiveros Alfaro"
 age = 22
 nationality = "Mexican"
@@ -9,7 +8,7 @@ developer_profile = "Full Stack Developer"
 languages = ["Spanish: native", "English: B1"]
 occupation = "Student"
 institution = "TecNM Campus Ciudad Hidalgo"
-hobbies = ["Basketball", "Learn to dance", "Spend time with family and friends", "Learn to programing"]
+hobbies = ["Basketball", "Learn to dance", "Spend time with family and friends", "Learn to programming"]
 
 class Developer:
     def __init__(self, name, age, nationality, developer_profile, languages, occupation, institution, hobbies):
@@ -22,19 +21,19 @@ class Developer:
         self.institution = institution
         self.hobbies = hobbies
 
-    def descripcion(self):
-        return 'Mi nombre es {}, tengo {} años, mi nacionalidad es {} y soy un {}, tengo las habilidades de hablar {}, soy un {} en el instituto {} y mis hobbies son {}.'.format(
+    def description(self):
+        return 'My name is {}, I am {} years old, I am {} and I am a {}, I can speak {}, I am a {} at {} and my hobbies are {}.'.format(
         self.name,
         self.age,
         self.nationality,
         self.developer_profile,
-        self languages,
+        self.languages,
         self.occupation,
         self.institution,
         self.hobbies
         )
 
-    def Programing(self, languages, stylesheets, frameworks, runtimes, databases, learning, projects)
+    def Programming(self, languages, stylesheets, frameworks, runtimes, databases, learning, projects):
         print(f"Languages: {languages}")
         print(f"Stylesheets: {stylesheets}")
         print(f"Frameworks: {frameworks}")
@@ -42,7 +41,7 @@ class Developer:
         print(f"Databases: {databases}")
         print(f"Learning: {learning}")
         print(f"Projects: {projects}")
-    
+
 futureDeveloper = Developer(
     name,
     age,
@@ -54,7 +53,7 @@ futureDeveloper = Developer(
     hobbies
 )
 
-print(futureDeveloper.descripcion())
+print(futureDeveloper.description())
 
 futureDeveloper.Programming(
     ["Python", "Java", "PHP", "JavaScript"],
@@ -67,14 +66,15 @@ futureDeveloper.Programming(
 )
 
 #Resultado
-Mi nombre es Johan Alejandro Ontiveros Alfaro, tengo 22 años, mi nacionalidad es Mexican y soy un Full Stack Developer, tengo las habilidades de hablar ['Spanish: native', 'English: B1'], soy un Student en el instituto TecNM Campus Ciudad Hidalgo y mis hobbies son ['Basketball', 'Learn to dance', 'Spend time with family and friends', 'Learn to programing'].
-Languages: ['Python', 'Java', 'PHP', 'JavaScript]
+My name is Johan Alejandro Ontiveros Alfaro, I am 22 years old, I am Mexican and I am a Full Stack Developer. I can speak ['Spanish: native', 'English: B1'], I am a Student at TecNM Campus Ciudad Hidalgo and my hobbies are ['Basketball', 'Learn to dance', 'Spend time with family and friends', 'Learn to programming'].
+Languages: ['Python', 'Java', 'PHP', 'JavaScript']
 Stylesheets: ['CSS']
-Frameworks: ['Angular', 'React', 'Django]
+Frameworks: ['Angular', 'React', 'Django']
 Runtimes: ['Node']
-Databases: ['MySQL', 'Firestore', 'MariaDB]
+Databases: ['MySQL', 'Firestore', 'MariaDB']
 Learning: ['Django', 'React', 'Astro']
 Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
+
 ```
 
 <p align="center">
