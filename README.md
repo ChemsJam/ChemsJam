@@ -2,8 +2,6 @@
  &#128075 Hi, there!
 </h1>
 
-
-![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
 ![pinguinito2](https://github.com/ChemsJam/ChemsJam/assets/111895521/2232dd81-82ca-4c12-a0dc-f97781810506)
 
 ```ts
@@ -95,4 +93,6 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 <a href="https://github.com/ChemsJam?tab=repositories">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=html,scss,prolog" />
 </a>
-<p>
+</p>
+
+![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
