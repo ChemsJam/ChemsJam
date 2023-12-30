@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1 align="center">
+ &#128075 Hi, there!
+</h1>
 
-![Uploading giphy.gif…]()
-
+<center>
+![giphy](https://github.com/ChemsJam/ChemsJam/assets/111895521/c449037a-f772-4222-be3f-70d26d98ccb2)
+</center>
 
 ```ts
 name = "Johan Alejandro Ontiveros Alfaro"
