@@ -5,7 +5,6 @@
 -->
 
 ```ts
-# Definición de la clase Developer
 class Developer:
     def __init__(self, name, age, nationality, developer_profile, languages, occupation, institution, hobbies):
         self.name = name
@@ -17,7 +16,6 @@ class Developer:
         self.institution = institution
         self.hobbies = hobbies
 
-# Datos separados para el nuevo desarrollador
 name = "Johan Alejandro Ontiveros Alfaro"
 age = 22
 nationality = "Mexican"
@@ -27,7 +25,6 @@ occupation = "Student"
 institution = "TecNM Campus Ciudad Hidalgo"
 hobbies = ["Basketball", "Learn to dance", "Spend time with family and friends"]
 
-# Creación del objeto Developer con los datos separados
 futureDeveloper = Developer(
     name,
     age,
