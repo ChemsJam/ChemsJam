@@ -9,6 +9,15 @@
 class Developer:
   pass
   def __init__(self, name, age, nationality, dev_profile, languages, occupation, school, freetime)
+  self.name = name
+  self.age = age
+  self.nationality
+  self.dev_profile = dev_profile
+  self.languages = languages
+  self.occupation = ocupation
+  self.school = school
+  self.freetiem = freetiem
+
 
 
 futureDeveloper = Developer("Johan Alejandro Ontiveros alfaro", 22, "Mexican", "BackEnd developer",
