@@ -5,24 +5,39 @@
 -->
 
 ```ts
-
+# Definición de la clase Developer
 class Developer:
-  pass
-  def __init__(self, name, age, nationality, dev_profile, languages, occupation, school, freetime)
-  self.name = name
-  self.age = age
-  self.nationality
-  self.dev_profile = dev_profile
-  self.languages = languages
-  self.occupation = ocupation
-  self.school = school
-  self.freetiem = freetiem
+    def __init__(self, name, age, nationality, developer_profile, languages, occupation, institution, hobbies):
+        self.name = name
+        self.age = age
+        self.nationality = nationality
+        self.developer_profile = developer_profile
+        self.languages = languages
+        self.occupation = occupation
+        self.institution = institution
+        self.hobbies = hobbies
 
+# Datos separados para el nuevo desarrollador
+name = "Johan Alejandro Ontiveros Alfaro"
+age = 22
+nationality = "Mexican"
+developer_profile = "BackEnd developer"
+languages = ["Spanish: native", "English: B1"]
+occupation = "Student"
+institution = "TecNM Campus Ciudad Hidalgo"
+hobbies = ["Basketball", "Learn to dance", "Spend time with family and friends"]
 
-
-futureDeveloper = Developer("Johan Alejandro Ontiveros alfaro", 22, "Mexican", "BackEnd developer",
-                  ["Spanish: native", "English; B1"], "Student", "TecNM Campus Ciudad Hidalgo",
-                  ["Basketball","Learn to dance","Spend time with family and friends"])
+# Creación del objeto Developer con los datos separados
+futureDeveloper = Developer(
+    name,
+    age,
+    nationality,
+    developer_profile,
+    languages,
+    occupation,
+    institution,
+    hobbies
+)
 
 ```
 
