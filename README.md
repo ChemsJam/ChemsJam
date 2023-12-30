@@ -66,7 +66,10 @@ futureDeveloper.Programming(
 )
 
 #Resultado
-My name is Johan Alejandro Ontiveros Alfaro, I am 22 years old, I am Mexican and I am a Full Stack Developer. I can speak ['Spanish: native', 'English: B1'], I am a Student at TecNM Campus Ciudad Hidalgo and my hobbies are ['Basketball', 'Learn to dance', 'Spend time with family and friends', 'Learn to programming'].
+My name is Johan Alejandro Ontiveros Alfaro, I am 22 years old, I am Mexican and I am a Full Stack Developer.
+I can speak ['Spanish: native', 'English: B1'], I am a Student at TecNM Campus Ciudad Hidalgo and my
+hobbies are ['Basketball', 'Learn to dance', 'Spend time with family and friends', 'Learn to programming'].
+
 Languages: ['Python', 'Java', 'PHP', 'JavaScript']
 Stylesheets: ['CSS']
 Frameworks: ['Angular', 'React', 'Django']
