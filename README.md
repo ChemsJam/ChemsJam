@@ -5,7 +5,7 @@
 name = "Johan Alejandro Ontiveros Alfaro"
 age = 22
 nationality = "Mexican"
-developer_profile = "BackEnd developer"
+developer_profile = "Full Stack Developer"
 languages = ["Spanish: native", "English: B1"]
 occupation = "Student"
 institution = "TecNM Campus Ciudad Hidalgo"
@@ -21,9 +21,10 @@ class Developer:
         self.occupation = occupation
         self.institution = institution
         self.hobbies = hobbies
+
     def descripcion(self):
         return 'Mi nombre es {}, tengo {} años, mi nacionalidad es {} y soy un {}, tengo las habilidades de hablar {}, soy un {} en el instituto {} y mis hobbies son {}.'.format(
-        selft.name,
+        self.name,
         self.age,
         self.nationality,
         self.developer_profile,
@@ -42,8 +43,6 @@ class Developer:
         print(f"Learning: {learning}")
         print(f"Projects: {projects}")
     
-
-
 futureDeveloper = Developer(
     name,
     age,
@@ -55,19 +54,27 @@ futureDeveloper = Developer(
     hobbies
 )
 
-# Impresión de la descripción del desarrollador
 print(futureDeveloper.descripcion())
 
-# Llamada al método Programming con ejemplos de tecnologías
 futureDeveloper.Programming(
-    ["Python", "Java", "PHP", "JavaScript],
+    ["Python", "Java", "PHP", "JavaScript"],
     ["CSS"],
-    ["Angular", "React", "Django],
+    ["Angular", "React", "Django"],
     ["Node"],
-    ["MySQL", "Firestore", MariaDB],
+    ["MySQL", "Firestore", "MariaDB"],
     ["Django", "React", "Astro"],
     ["webProLog", "ForoAngular", "comandasPlayitaSanMarcos"]
 )
+
+#Resultado
+Mi nombre es Johan Alejandro Ontiveros Alfaro, tengo 22 años, mi nacionalidad es Mexican y soy un Full Stack Developer, tengo las habilidades de hablar ['Spanish: native', 'English: B1'], soy un Student en el instituto TecNM Campus Ciudad Hidalgo y mis hobbies son ['Basketball', 'Learn to dance', 'Spend time with family and friends', 'Learn to programing'].
+Languages: ['Python', 'Java', 'PHP', 'JavaScript]
+Stylesheets: ['CSS']
+Frameworks: ['Angular', 'React', 'Django]
+Runtimes: ['Node']
+Databases: ['MySQL', 'Firestore', 'MariaDB]
+Learning: ['Django', 'React', 'Astro']
+Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 ```
 
 <p align="center">
