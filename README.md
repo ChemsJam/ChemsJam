@@ -97,7 +97,7 @@ hobbies are ['Basketball', 'Learn to dance', 'Spend time with family and friends
 
 Languages: ['Python', 'Java', 'PHP', 'JavaScript']
 Stylesheets: ['CSS']
-Frameworks: ['Angular', 'React', 'Django']
+Frameworks: ['Angular', 'Django']
 Runtimes: ['Node']
 Databases: ['MySQL', 'Firestore', 'MariaDB']
 Learning: ['Django', 'React', 'Astro']
