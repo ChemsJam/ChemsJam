@@ -2,7 +2,7 @@
  &#128075 Hi, there!
 </h1>
 
-![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
+
 
 <p align="center">
 <details>
@@ -82,7 +82,7 @@ futureDeveloper.Programming(
 )
 ```
 
-![pinguinito2](https://github.com/ChemsJam/ChemsJam/assets/111895521/2232dd81-82ca-4c12-a0dc-f97781810506)
+![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
 </details>
 </details>
 
