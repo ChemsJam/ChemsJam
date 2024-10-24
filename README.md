@@ -113,7 +113,7 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=ChemsJam&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
 <a href="https://github.com/ChemsJam?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=css,html" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=css,python,html" />
 </a>
   </p>
 </details>
