@@ -106,7 +106,6 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 
  ![pollito](https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd)
 </details>
-<details>
  <summary>My Stats</summary>
  <p align="center">
 <a href="https://github.com/ChemsJam?tab=repositories">
@@ -116,7 +115,6 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=css,python,html" />
 </a>
   </p>
-</details>
 </p>
 
 <div align="center">
