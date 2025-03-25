@@ -118,3 +118,12 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
   </p>
 </details>
 </p>
+
+<div align="center">
+  <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
+ </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemsJam&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
+</p>
+<br>
