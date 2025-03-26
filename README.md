@@ -1,9 +1,3 @@
-<h1>
- &#128075 Hi, there!
-</h1>
-
-
-
 <p align="center">
 <details>
  <summary>Code</summary>
