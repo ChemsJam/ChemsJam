@@ -100,15 +100,6 @@ Learning: ['Django', 'React', 'Astro']
 Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 ```
 <p align="center"> My Stats </p>
- <p align="center">
-<a href="https://github.com/ChemsJam?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=ChemsJam&show_icons=true&theme=dracula&rank_icon=github" />
-</a>
-<a href="https://github.com/ChemsJam?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=css,python,html" />
-</a>
-  </p>
-</p>
 
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
@@ -119,9 +110,21 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 </p>
 <br>
 
+ <p align="center">
+  <a href="https://github.com/ChemsJam?tab=repositories">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=ChemsJam&show_icons=true&theme=dracula&rank_icon=github" />
+  </a>
+    
+  <a href="https://github.com/ChemsJam?tab=repositories">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemsJam&layout=compact&theme=onedark&hide=css,python,html" />
+  </a>
+ </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" height="145"/>
+<!---
 <p align="center">
  <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd" height="250">
  <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b" height="250">
 </p> 
+--->
