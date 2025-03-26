@@ -85,8 +85,6 @@ futureDeveloper.Programming(
 ![pinguinito](https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b)
 </details>
 </details>
-
-<details>
 <summary>Result</summary>
  
 ```py
@@ -105,7 +103,6 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 ```
 
  ![pollito](https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd)
-</details>
  <summary>My Stats</summary>
  <p align="center">
 <a href="https://github.com/ChemsJam?tab=repositories">
@@ -122,6 +119,6 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
  </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemsJam&theme=github-compact">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemsJam&theme=github-compact&custom_title=Johan's%20contribution%20graph%20for%20the%20last%20month&hide_border=true&grid=true">
 </p>
 <br>
