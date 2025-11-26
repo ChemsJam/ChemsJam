@@ -71,10 +71,9 @@ print(futureDeveloper.description())
 futureDeveloper.Programming(
     ["Python", "Java", "PHP", "JavaScript"],
     ["CSS"],
-    ["Angular", "React", "Django"],
-    ["Node"],
-    ["MySQL", "Firestore", "MariaDB"],
-    ["Django", "React", "Astro"],
+    ["Angular", "React", "Django"]
+    ["MySQL", "PostgreSQL", "MariaDB"],
+    ["Django", "React", "Angular"],
     ["webProLog", "ForoAngular", "comandasPlayitaSanMarcos"]
 )
 ```
@@ -94,9 +93,8 @@ hobbies are ['Basketball', 'Learn to dance', 'Spend time with family and friends
 Languages: ['Python', 'Java', 'PHP', 'JavaScript']
 Stylesheets: ['CSS']
 Frameworks: ['Angular', 'Django']
-Runtimes: ['Node']
-Databases: ['MySQL', 'Firestore', 'MariaDB']
-Learning: ['Django', 'React', 'Astro']
+Databases: ['MySQL', 'PostgreSQL', 'MariaDB']
+Learning: ['Django', 'React', 'Angular']
 Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 ```
 <p align="center"> My Stats </p>
