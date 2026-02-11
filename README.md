@@ -99,6 +99,11 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 ```
 <p align="center"> My Stats </p>
 
+ <p align="center">
+   <img width=400 src='https://streak-stats.demolab.com?user=ChemsJam&theme=vue-dark&hide_border=true' />
+ </p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChemsJam/ChemsJam/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChemsJam/ChemsJam/output/github-snake.svg" />
