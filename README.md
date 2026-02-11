@@ -99,20 +99,21 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 ```
 <p align="center"> My Stats </p>
 
- <p align="center">
-   <img width=400 src='https://streak-stats.demolab.com?user=ChemsJam&theme=vue-dark&hide_border=true' />
- </p>
 
 
-<picture>
+
+
+
+<p align="center">
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChemsJam/ChemsJam/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChemsJam/ChemsJam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemsJam&theme=github-compact&custom_title=Johan's%20contribution%20graph%20for%20the%20last%20month&hide_border=true&grid=true">
+ <img width=400 src='https://streak-stats.demolab.com?user=ChemsJam&theme=vue-dark&hide_border=true' />
 </p>
+
 <br>
 <!---
  <p align="center">
