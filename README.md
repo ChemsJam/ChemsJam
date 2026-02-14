@@ -99,35 +99,19 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 ```
 <p align="center"> My Stats </p>
 
-
-
-
-
+<p align="center">
+ <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd" width="250">
+ <img width=400 src='https://streak-stats.demolab.com?user=ChemsJam&theme=vue-dark&hide_border=true' />
+ <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b" width="200">
+</p> 
 
 <p align="center">
+ 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemsJam&theme=github-compact&custom_title=Johan's%20contribution%20graph%20for%20the%20last%20month&hide_border=true&grid=true">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChemsJam/ChemsJam/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChemsJam/ChemsJam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemsJam&theme=github-compact&custom_title=Johan's%20contribution%20graph%20for%20the%20last%20month&hide_border=true&grid=true">
- <img width=400 src='https://streak-stats.demolab.com?user=ChemsJam&theme=vue-dark&hide_border=true' />
 </p>
-
-<br>
-<!---
- <p align="center">
-  <a href="https://github.com/ChemsJam?tab=repositories">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=ChemsJam&show_icons=true&theme=dracula&rank_icon=github" />
-  </a>![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- </p>
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" height="145"/>
-
-<p align="center">
- <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd" height="250">
- <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b" height="250">
-</p> 
---->
