@@ -100,9 +100,9 @@ Projects: ['webProLog', 'ForoAngular', 'comandasPlayitaSanMarcos']
 <p align="center"> My Stats </p>
 
 <p align="center">
- <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd" width="150">
+ <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/62870bd9-c3a4-4b7b-b1b5-2fede2d89ecd" width="175">
  <img width=400 src='https://streak-stats.demolab.com?user=ChemsJam&theme=vue-dark&hide_border=true' />
- <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b" width="100">
+ <img src="https://github.com/ChemsJam/ChemsJam/assets/111895521/18f43973-c78b-43c5-a9d3-6357a883739b" width="125">
 </p> 
 
 <p align="center">
